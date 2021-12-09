@@ -1,0 +1,25 @@
+Conversion Funnel Step,City,Number of Users on Step (MAY),Step Level Conversion (MAY),Number of Users on Step (JUNE),Step Level Conversion (JUNE)
+Landed on Main Page,Delhi,100,100.00%,150,100.00%
+Started QnA,Delhi,70,70.00%,105,70.00%
+Viewed and Selected Package,Delhi,43,43.00%,48,32.00%
+Landed on Scheduler Page,Delhi,25,25.00%,28,18.70%
+Landed on payment Page,Delhi,15,15.00%,17,11.30%
+Booking Success,Delhi,12,12.00%,7,4.70%
+Landed on Main Page,Bangalore,95,100.00%,80,100.00%
+Started QnA,Bangalore,65,68.40%,53,66.30%
+Viewed and Selected Package,Bangalore,39,41.10%,32,40.00%
+Landed on Scheduler Page,Bangalore,23,24.20%,12,15.00%
+Landed on payment Page,Bangalore,14,14.70%,7,8.80%
+Booking Success,Bangalore,11,11.60%,3,3.80%
+Landed on Main Page,Mumbai,110,100.00%,105,100.00%
+Started QnA,Mumbai,77,70.00%,73,69.50%
+Viewed and Selected Package,Mumbai,30,27.30%,29,27.60%
+Landed on Scheduler Page,Mumbai,19,17.30%,18,17.10%
+Landed on payment Page,Mumbai,11,10.00%,11,10.50%
+Booking Success,Mumbai,9,8.20%,4,3.80%
+Landed on Main Page,Hyderabad,75,100.00%,80,100.00%
+Started QnA,Hyderabad,53,70.70%,56,70.00%
+Viewed and Selected Package,Hyderabad,30,40.00%,31,38.80%
+Landed on Scheduler Page,Hyderabad,20,26.70%,21,26.30%
+Landed on payment Page,Hyderabad,12,16.00%,8,10.00%
+Booking Success,Hyderabad,9,12.00%,3,3.80%
